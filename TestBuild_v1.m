@@ -22,6 +22,8 @@ Sys = GenSysGraph(Comp,ConnectV,ConnectE);
 %%
 Sys = SymbolicSolver(Sys);
 
+% test
+
 %% Linearize the System Graph
 % x0 = [60; 70; 580; 580; 585; 590; 595; 600; 605; 0; 0; 610; 615]; 
 % u0 = [.1 .2 .4 .1 .2 .3]';
