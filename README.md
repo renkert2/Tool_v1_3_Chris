@@ -2,6 +2,7 @@ Project: Tool_v1_3_Chris
 
 # Installation
 
+## With Project File
 * If you want to clone a remote Git repository to create a project, on the MATLAB® Home tab, select **New > Project > From Git**. After you specify a remote repository to clone, a local repository is created. You can also pull, fetch, and push changes to and from the remote repository.
 * In the **From Git** Window
     * Source Control Tool: Git
